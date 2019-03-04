@@ -1,1 +1,0 @@
-要将Git客户端配置为默认为本地存储库签名提交，请在Git版本2.0.0及更高版本中运行git config commit.gpgsign true。要在计算机上的任何本地存储库中默认签署所有提交，请运行git config --global commit.gpgsign true
